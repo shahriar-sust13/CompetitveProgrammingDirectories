@@ -1,3 +1,6 @@
+/*
+*   My solution is similar to the editorial found in this link: http://codeforces.com/blog/entry/57840
+*/
 #include <cstdio>
 #include <sstream>
 #include <cstdlib>
